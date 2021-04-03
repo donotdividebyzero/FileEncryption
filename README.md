@@ -1,0 +1,1 @@
+Simple layer of encryption for files or block of memory kind of encrypted swap files.

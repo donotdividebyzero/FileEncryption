@@ -1,0 +1,14 @@
+{
+    "name": "donotdividebyzero/vault",
+    "description": "Encrypted vault",
+    "type": "library",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "DoNotDivideByZero\\Encryption\\": "src"
+        }
+    }
+}
